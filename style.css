@@ -16,6 +16,12 @@ body {
             border-radius: 10px;
             margin-top: 30px;
         }
+        .profile-photo {
+            max-width: 200px;
+            display: block;
+            margin: 0 auto;
+            border-radius: 60%;
+        }
         header {
             text-align: center;
             margin-bottom: 20px;
